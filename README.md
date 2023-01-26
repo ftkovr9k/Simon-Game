@@ -2,5 +2,5 @@
 
 How good is your memory?
 
-Play here 👇
+Play here 👉
 https://ftkovr9k.github.io/Simon-Game/
